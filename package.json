@@ -1,0 +1,22 @@
+{
+  "name": "permutation-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clemcodes/permutation-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clemcodes/permutation-finder/issues"
+  },
+  "homepage": "https://github.com/clemcodes/permutation-finder#readme",
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
